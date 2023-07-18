@@ -20,7 +20,7 @@ We extracted the news articles from different Hindi media websites namely NDTV, 
 news events.
 <br>
 <h3> Example Dataset</h3>
-<google-sheets-html-origin style="color: rgb(0, 0, 0);"><table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" border="1" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;">
+<div><google-sheets-html-origin style="color: rgb(0, 0, 0);"><table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" border="1" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;">
   <thead>
     <tr style="height: 21px;">
       <th>news_title</th>
@@ -116,30 +116,8 @@ news events.
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;इंस्टाग्राम पर नुपुर शर्मा की तस्वीर डालने पर कारोबारी को मिली जान से मारने की धमकी, तीन गिरफ्तार&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">इंस्टाग्राम पर नुपुर शर्मा की तस्वीर डालने पर कारोबारी को मिली जान से मारने की धमकी, तीन गिरफ्तार</td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pro Hindu&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Pro Hindu</td>
     </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;नुपुर शर्मा की जीभ काटने पर 2 करोड़ रुपये इनाम देने की घोषणा करने का आरोपी गिरफ्तार&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">नुपुर शर्मा की जीभ काटने पर 2 करोड़ रुपये इनाम देने की घोषणा करने का आरोपी गिरफ्तार</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pro Hindu&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Pro Hindu</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;नूपुर शर्मा को समर्थन : सोशल मीडिया कमेंट पर बिहार में भिड़े युवक, राजस्थान में वकील को मिली धमकी&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">नूपुर शर्मा को समर्थन : सोशल मीडिया कमेंट पर बिहार में भिड़े युवक, राजस्थान में वकील को मिली धमकी</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pro Hindu&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Pro Hindu</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;अजमेर दरगाह का खादिम गिरफ्तार, BJP की पूर्व प्रवक्ता नूपुर शर्मा को लेकर दिया था भड़काऊ बयान&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">अजमेर दरगाह का खादिम गिरफ्तार, BJP की पूर्व प्रवक्ता नूपुर शर्मा को लेकर दिया था भड़काऊ बयान</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pro Hindu&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Pro Hindu</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;नुपुर शर्मा को धमकाने के आरोप में अजमेर दरगाह के मौलवी पर केस दर्ज&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">नुपुर शर्मा को धमकाने के आरोप में अजमेर दरगाह के मौलवी पर केस दर्ज</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pro Hindu&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Pro Hindu</td>
-    </tr>
-
-
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;नूपुर शर्मा को सुप्रीम राहत, देशभर में दर्ज सभी केस दिल्ली ट्रांसफर, SC का आदेश&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">नूपुर शर्मा को सुप्रीम राहत, देशभर में दर्ज सभी केस दिल्ली ट्रांसफर, SC का आदेश</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Neutral&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Neutral</td>
-    </tr>
   </tbody>
-</table></google-sheets-html-origin>
-
+</table></google-sheets-html-origin></div><div><br></div>
 
  <h3> Experimental Design </h3>
 <p> We wrote the executable code for this project in Google Colaboratory Notebook which implemented Python 3.7 version. The flow of Python code includes
